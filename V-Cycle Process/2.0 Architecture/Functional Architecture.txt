@@ -1,0 +1,51 @@
+Door Control Module SW Functional Architecture:
+
+Manual Locking (Driver and Passenger Door only)
+Remote Locking (All Doors)
+
+Manual Unlocking (Driver and Passenger Door only)
+Remote Unlocking (All Doors)
+
+Door Lock Status Determination
+Door Lock Status Report
+
+Check System Power Mode
+Determine Vehicle Speed
+Auto Lock While Driving
+
+Determine Window Position
+Determine Window Actuation
+Report Window Operation
+
+Open Window Actuation
+Global Open Window Actuation
+
+Close Window Actuation
+Global Close Window Actuation
+
+Cancel Window Actuation
+
+Anti Pinch Event Handler
+
+Determine Button Press
+
+Button Debounce Handler
+
+Switch Position Debounce Handler
+
+Solenoid Control
+
+LED Bar Control
+
+DC Motor Control
+
+Manage HW Diagnosis
+
+Determine SW System Variant
+
+Provide HW System Variant
+
+Manage Errors
+
+Build CAN Frame
+Transmit CAN Frame
