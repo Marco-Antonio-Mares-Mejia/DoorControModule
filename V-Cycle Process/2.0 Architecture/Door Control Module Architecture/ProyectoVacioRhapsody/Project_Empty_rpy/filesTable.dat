@@ -1,0 +1,8 @@
+I-Logix-RPY-Archive version 8.14.0 * 9810360
+
+- filesTable = { IRPYRawContainer 
+	- size = 1;
+	- value = "Project_Empty.rpy" ""
+	
+}
+
